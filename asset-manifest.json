@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nasa-collection/static/css/main.d2d92cc0.chunk.css",
+    "main.css": "/nasa-collection/static/css/main.191e0101.chunk.css",
     "main.js": "/nasa-collection/static/js/main.cf88932f.chunk.js",
     "main.js.map": "/nasa-collection/static/js/main.cf88932f.chunk.js.map",
     "runtime~main.js": "/nasa-collection/static/js/runtime~main.0b9f4e38.js",
@@ -8,8 +8,8 @@
     "static/js/2.24774a61.chunk.js": "/nasa-collection/static/js/2.24774a61.chunk.js",
     "static/js/2.24774a61.chunk.js.map": "/nasa-collection/static/js/2.24774a61.chunk.js.map",
     "index.html": "/nasa-collection/index.html",
-    "precache-manifest.be4bf5334685486566bdf848c9e19510.js": "/nasa-collection/precache-manifest.be4bf5334685486566bdf848c9e19510.js",
+    "precache-manifest.3e3380686f5ec22419227309e0a90bed.js": "/nasa-collection/precache-manifest.3e3380686f5ec22419227309e0a90bed.js",
     "service-worker.js": "/nasa-collection/service-worker.js",
-    "static/css/main.d2d92cc0.chunk.css.map": "/nasa-collection/static/css/main.d2d92cc0.chunk.css.map"
+    "static/css/main.191e0101.chunk.css.map": "/nasa-collection/static/css/main.191e0101.chunk.css.map"
   }
 }
