@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "duynd1.github.io/nasa-collection/static/css/main.d2d92cc0.chunk.css",
+    "main.js": "duynd1.github.io/nasa-collection/static/js/main.5c3684b0.chunk.js",
+    "main.js.map": "duynd1.github.io/nasa-collection/static/js/main.5c3684b0.chunk.js.map",
+    "runtime~main.js": "duynd1.github.io/nasa-collection/static/js/runtime~main.ae755d8b.js",
+    "runtime~main.js.map": "duynd1.github.io/nasa-collection/static/js/runtime~main.ae755d8b.js.map",
+    "static/js/2.24774a61.chunk.js": "duynd1.github.io/nasa-collection/static/js/2.24774a61.chunk.js",
+    "static/js/2.24774a61.chunk.js.map": "duynd1.github.io/nasa-collection/static/js/2.24774a61.chunk.js.map",
+    "index.html": "duynd1.github.io/nasa-collection/index.html",
+    "precache-manifest.460cbfa1eec84c51ac564e7ab196a645.js": "duynd1.github.io/nasa-collection/precache-manifest.460cbfa1eec84c51ac564e7ab196a645.js",
+    "service-worker.js": "duynd1.github.io/nasa-collection/service-worker.js",
+    "static/css/main.d2d92cc0.chunk.css.map": "duynd1.github.io/nasa-collection/static/css/main.d2d92cc0.chunk.css.map"
+  }
+}
